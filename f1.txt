@@ -1,2 +1,4 @@
 This is Feature one
 Adding some extra code
+This is a testing of git pull and merging.
+Thank you
